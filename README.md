@@ -1,2 +1,2 @@
-# CPP-Projects
+# CPP_Projects
 Repository for C++ scripts and projects
